@@ -13,6 +13,10 @@ ArraySelector.Run();
 // Uncomment and run as you get to the solution part
 // Console.WriteLine("\n======================\nDivisors Solution\n======================");
 // DivisorsSolution.Run();
+<<<<<<< HEAD
 
+=======
+//
+>>>>>>> 1046ebd315b841a83d7323c6cc6f162584529ecd
 // Console.WriteLine("\n======================\nArray Selector Solution\n======================");
 // ArraySelectorSolution.Run();
